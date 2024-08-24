@@ -2,7 +2,7 @@
 
 Uma aplicação React que consome dados de uma API externa para exibir informações sobre os agentes do jogo Valorant. Este projeto tem como objetivo apresentar uma lista de agentes com detalhes como nome, função e descrição.
 
-[Ver Projeto]([https://valorant-renovatt.vercel.app/](https://workshop-frontend-2024-2-five.vercel.app/))
+[Ver Projeto]([https://valorant-renovatt.vercel.app/](https://workshop-frontend-2024-2-five.vercel.app/])
 
 ## 🛠️ Tecnologias Utilizadas
 
