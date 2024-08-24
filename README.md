@@ -74,6 +74,8 @@ O projeto estará disponível em `http://localhost:3000`.
 
 Copiar código
 
+plaintext
+
 `valorant-agents/
 ├── public/
 │   └── index.html
